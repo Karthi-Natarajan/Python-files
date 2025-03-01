@@ -15,7 +15,7 @@ while first_digit >= 10:
 
 print(first_digit,last_digit)
 
-#In Build-in function
+#In Built-in function
 
 num = int(input("Enter a 3 digit number: "))
 print ( num % 10 , num // 100 )
