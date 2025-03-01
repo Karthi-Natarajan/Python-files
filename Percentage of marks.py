@@ -1,3 +1,4 @@
+# To Calculate Total Percentage
 marks=[]
 i=0
 while i < 5:
