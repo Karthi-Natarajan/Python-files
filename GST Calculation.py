@@ -20,7 +20,7 @@ def rounding_off(num):
 print("CGST : ",rounding_off(cgst),"SGST :",rounding_off(sgst),"Total :",rounding_off(total))
 
 
-# IN Build-in function
+# IN Built-in function
 
 price = int(input("enter the price "))
 cgst = price * 0.09
